@@ -11,7 +11,7 @@ Loyalty Points: 0.00
 Status: Inactive
 Referral Source: Saugat Basnet
 Plan: Basic
-Price: £30.00
+Price: 0.00
 Removal Reason: remove
 ----------------------------------------
 ID: 2
