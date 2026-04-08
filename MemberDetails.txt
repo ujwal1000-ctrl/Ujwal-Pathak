@@ -1,0 +1,49 @@
+ID: 12
+Name: Nikshan Gautam
+Location: Itahari 5
+Phone: 9876543211
+Email: nikshan@gmail.com
+Gender: 
+DOB: 30 June 2000
+Membership Start: 1 January 2024
+Attendance: 0
+Loyalty Points: 0.00
+Status: Inactive
+Referral Source: ujwal
+Plan: Basic
+Price: 0.00
+Removal Reason: remove
+----------------------------------------
+ID: 2
+Name: Samyog Shrestha
+Location: Biratchowk-4
+Phone: 9823456789
+Email: samyog12@gmail.com
+Gender: 
+DOB: 2 March 2007
+Membership Start: 3 February 2025
+Attendance: 0
+Loyalty Points: 0.00
+Status: Active
+Trainer Name: 
+Paid Amount: 0.00
+Full Payment: No
+Discount Amount: 0.00
+Remaining Amount: 50000.00
+----------------------------------------
+ID: 1
+Name: Ramesh Karki
+Location: Itahari-5
+Phone: 9876543212
+Email: ramesh@gmail.com
+Gender: 
+DOB: 1 January 1995
+Membership Start: 1 January 2025
+Attendance: 0
+Loyalty Points: 0.00
+Status: Active
+Referral Source: Ujwal Timsina
+Plan: Basic
+Price: 0.00
+Removal Reason: not come
+----------------------------------------
